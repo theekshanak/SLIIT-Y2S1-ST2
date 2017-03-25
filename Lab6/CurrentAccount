@@ -1,0 +1,8 @@
+class CurrentAccount extends Account {
+    double odAmount;
+    double showODAmt(){
+
+        return odAmount;
+
+    }
+}
